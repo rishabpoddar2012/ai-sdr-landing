@@ -1,0 +1,8 @@
+{
+  "name": "ai-sdr-landing",
+  "version": "1.0.0",
+  "description": "AI SDR Landing Page",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
