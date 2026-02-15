@@ -12,5 +12,15 @@
       "src": "/(.*)",
       "dest": "/index.html"
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/signup",
+      "destination": "https://ai-sdr-app.vercel.app/signup"
+    },
+    {
+      "source": "/login",
+      "destination": "https://ai-sdr-app.vercel.app/login"
+    }
   ]
 }
